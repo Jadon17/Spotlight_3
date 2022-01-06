@@ -1,0 +1,24 @@
+canvas {
+    border: 0.2cm black groove;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Comic Sans MS;
+}
+
+h4 {
+    font-size: 28px;
+    font-family: 'Lobster Two';
+    font-weight: 1000;
+}
+
+kbd,h2 {
+    font-family: 'Bebas Neue';
+    margin-bottom: 50px;
+}
+
+hr {
+    background-color: black;
+    color: black;
+}
